@@ -5,8 +5,13 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+Simple enough to play, with an option to enable a hint. Also had a very simple interface.
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+  a. On even attempts, 'secret' becomes a string.
+  b. After round ends, user is unable to start a new game
+  c. Enter button on keyboard does not submit
+  d. Easy difficulty is hardest(ranges wrong)
 
 ---
 
